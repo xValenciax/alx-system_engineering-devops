@@ -30,3 +30,5 @@
 
 100-lets_move: This script moves all files beginning with uppercase letters
 to /tmp/u dir
+
+101-clean_emacs: This script deletes all emacs temporary files which ends with ~
