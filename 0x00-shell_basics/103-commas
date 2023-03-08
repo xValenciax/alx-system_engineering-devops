@@ -1,3 +1,2 @@
 #!/bin/bash
 ls -axp --indicator-style=slash --format=commas --group-directories-first
-printf '\n'
