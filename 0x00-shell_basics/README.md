@@ -32,3 +32,5 @@
 to /tmp/u dir
 
 101-clean_emacs: This script deletes all emacs temporary files which ends with ~
+
+102-tree: This script creates a welcome/ inside of which it create to/ inside of which it creates /school
