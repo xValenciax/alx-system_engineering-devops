@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -axp --indicator-style=slash --format=commas --group-directories-first
+ls -avp --indicator-style=slash --format=commas
