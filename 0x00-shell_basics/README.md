@@ -19,3 +19,5 @@
 9-firstdirdeletion: This script deletes the tmp/my_first_directory
 
 10-back: This script changes directory back to the previous one
+
+11-lists: This script lists the contents of the current, parent and /boot directories in long format
