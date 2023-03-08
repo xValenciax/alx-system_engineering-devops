@@ -28,3 +28,5 @@
 
 14-copy_html: This script copies all html files from current directory to parent directory as long as their version is newer ot they don't exist in the parent dir
 
+100-lets_move: This script moves all files beginning with uppercase letters
+to /tmp/u dir
