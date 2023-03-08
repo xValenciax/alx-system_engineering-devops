@@ -11,3 +11,7 @@
 5-listmorefilesdigitonly: This script does the same as script 4 + displaying user and group IDs instead of names
 
 6-firstdirectory: This script creates a new directory inside /tmp dir
+
+7-movethatfile: This script moves a file called betty in tmp dir to /tmp/my_first_directory
+
+8-firstdelete: This script deletes the previously mentioned betty file
