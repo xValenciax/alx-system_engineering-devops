@@ -21,3 +21,5 @@
 10-back: This script changes directory back to the previous one
 
 11-lists: This script lists the contents of the current, parent and /boot directories in long format
+
+12-file_type: This script prints the type of iamafile file
