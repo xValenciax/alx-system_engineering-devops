@@ -1,1 +1,1 @@
-This script prints the absolute path of the current working directory
+this is a Repo for ALX Programme's Shell basics task
