@@ -36,3 +36,5 @@ to /tmp/u dir
 102-tree: This script creates a welcome/ inside of which it create to/ inside of which it creates /school
 
 103-commas: This script shoud list a directory files in a formatted way
+
+school.mgc: This file is used with the command file to detect school data files
