@@ -5,3 +5,5 @@
 2-bring_me_home: This script change the current directory to Home dir
 
 3-listfiles: This script lists current directory content in long format
+
+4-listmorefiles: This script lists current directory content including hidden files
