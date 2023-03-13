@@ -4,3 +4,4 @@ hellofile: a script that prints the content of /etc/passwd file
 twofiles: a script that prints the content of both file /etc/passwd and /etc/hosts
 lastlines: a script that prints last 10 lines of /etc/passwd file
 firstlines: a script that prints first 10 lines of /etc/passwd file
+thirdline: a script that prints	the third line of a file
