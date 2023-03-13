@@ -1,2 +1,2 @@
 #!/bin/bash
-tr '\n\n' '@' < iacta | cut -f 3 -d '@'
+cut -f 3 -d $'\n' iacta
