@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Rp | grep '/$' -c
+ls -aRp | grep '/$' -c
