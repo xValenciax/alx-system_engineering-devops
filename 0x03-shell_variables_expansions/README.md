@@ -1,0 +1,1 @@
+alias: this script create an alias
