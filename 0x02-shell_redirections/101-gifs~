@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -1 | awk '/.gif/ {print}' | sed 's/\.gif//g'
