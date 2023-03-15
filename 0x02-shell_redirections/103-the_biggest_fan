@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -f 1 | sort -k 1 | uniq -c | LC_ALL=C sort -r -k 1| head -n 11 | rev | cut -f 1 -d " " | rev
+tail -n +2 | cut -f 1 | sort -k 1 | uniq -c | sort -nr -k 1| head -n 11 | rev | cut -f 1 -d " " | rev
