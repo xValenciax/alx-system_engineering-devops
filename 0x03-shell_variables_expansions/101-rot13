@@ -1,2 +1,2 @@
 #!/bin/bash
-tr ['a-mA-M','n-zN-Z'] ['n-zN-Z','a-mA-M'] < $1
+tr ['a-mA-M','n-zN-Z'] ['n-zN-Z','a-mA-M']
