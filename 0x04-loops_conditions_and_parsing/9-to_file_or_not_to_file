@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# This script prints information about a file called "school"
 
 FILENAME="school"
 
