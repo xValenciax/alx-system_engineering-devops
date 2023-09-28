@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# This script displays "Best School" 10
+# but in the 9th iteration print "hi" after it
+
+Hrs=0
+Mins=1
+
+while [ $Hrs -le 12 ]
+do
+	echo "Hour: $Hrs"
+	while [ $Mins -le 59 ]
+	do
+		echo $Mins
+		((Mins+=1))
+	done
+	Mins=1
+	((Hrs+=1))
+done
