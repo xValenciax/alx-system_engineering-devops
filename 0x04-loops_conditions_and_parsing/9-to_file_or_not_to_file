@@ -12,7 +12,7 @@ if [ -e $FILENAME ]; then
 		echo "$FILENAME file is empty"
 	fi
 	if [ -f $FILENAME ]; then
-	     	echo "$FILENAME file is a regular file"
+	     	echo "$FILENAME is a regular file"
 	fi
 else
 	echo "$FILENAME file does not exist"
