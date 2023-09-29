@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # This script terminates "4-to-infinity and beyond" script
 
-spid=$(pgrep "bash" | sort -n -r | tr '\n' '\t' | cut -f3)
+spid=$(pgrep -f to_infinity)
 kill "$spid"
