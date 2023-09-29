@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # This script displays a list of currently running processes
 
-proc_list=$(ps -aux)
+proc_list=$(ps -auxf)
 
 echo "$proc_list"
