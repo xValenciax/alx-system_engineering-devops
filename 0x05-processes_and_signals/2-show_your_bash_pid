@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# This script displays its own pid
+# shellcheck disable=SC2009
+
+bash_proc_list=$(ps -auxf | grep "bash")
+
+echo "$bash_proc_list"
