@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# This script displays its own pid
+
+# first method
+#PID=$$
+#echo $PID
+
+# second method
+PID=$(pgrep -n)
+
+echo "$PID"
