@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# This script display a text indifinitely while not being affected by SIGTERM
+
+trap 'echo "I am invincible!!!"' SIGTERM
+
+while ((1))
+do
+	echo "To infinity and beyond"
+	sleep 2
+done

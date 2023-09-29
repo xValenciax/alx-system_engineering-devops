@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script terminates "4-to-infinity and beyond" script
+
+pkill -f highlander
