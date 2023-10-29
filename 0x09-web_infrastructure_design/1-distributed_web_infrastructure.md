@@ -1,4 +1,4 @@
-# [Distributed Infrastructure](https://imgur.com/a/xmbE8QC)
+# Distributed Infrastructure
 
 ![Distributed Infrastructure](1-distributed_web_infrastructure.png)
 
