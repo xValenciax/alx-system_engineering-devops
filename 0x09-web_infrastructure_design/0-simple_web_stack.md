@@ -80,7 +80,7 @@
 - Scaling to larger traffic
 
 ```text
-    Due to having only one server, we cannot implement load balancing to coming requests,
+    Due to having only one server, we cannot implement load balancing to incoming requests,
     which will result in that server to run out of resources or slow down when
     receiving a large number of requests.
 ```

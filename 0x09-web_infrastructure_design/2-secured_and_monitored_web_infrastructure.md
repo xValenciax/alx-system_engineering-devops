@@ -1,4 +1,4 @@
-# Distributed Infrastructure
+# [Distributed Infrastructure](https://imgur.com/a/uF8CQlJ)
 
 ![Distributed Infrastructure](2-secured_and_monitored_web_infrastructure.png)
 

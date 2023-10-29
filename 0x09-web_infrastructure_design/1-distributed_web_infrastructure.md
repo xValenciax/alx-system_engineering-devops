@@ -1,4 +1,4 @@
-# Distributed Infrastructure
+# [Distributed Infrastructure](https://imgur.com/a/G6wr6Jz)
 
 ![Distributed Infrastructure](1-distributed_web_infrastructure.png)
 
@@ -6,7 +6,7 @@
 
 ## Definitions
 
-- The newly added Server and its components
+- The added Servers and their components
 
 ```text
     The second server is to add redundancy to the infrastructure, which in turn resolves
@@ -16,7 +16,7 @@
     which distributes the work equally over both of them.
 ```
 
-- The Load Balancer `HAproxy` Added
+- The added Load Balancer `HAproxy`
 
 ```text
     The Load Balancer is to help distribute requests equally over available resources,
