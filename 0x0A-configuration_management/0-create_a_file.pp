@@ -1,4 +1,5 @@
 # creates new file named school in /tmp dir
+
 file {'school':
       ensure  => 'present',
       mode    => '0744',
