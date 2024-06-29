@@ -1,5 +1,14 @@
 # Puppet Manifest: 1-install_a_package.pp
 
+# Ensure Python and pip are installed
+package { 'python3-pip':
+  ensure => installed,
+}
+
+package { 'python3':
+  ensure => installed,
+}
+
 # Install Flask 2.1.0 using pip
 package { 'flask':
   ensure   => '2.1.0',
