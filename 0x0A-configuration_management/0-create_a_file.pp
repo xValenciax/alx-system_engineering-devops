@@ -1,7 +1,6 @@
 file {'/tmp/school':
-      ensure  => 'present',
-      mode    => '0744',
       content => 'I love Puppet',
+      mode    => '0744',
       group   => 'www-data',
       owner   => 'www-data'
 }
