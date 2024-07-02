@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+# this bash scripts fixes the apache server not running bug
+
+service apache2 start
